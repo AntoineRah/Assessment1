@@ -22,7 +22,7 @@ const taskManager = new TaskManager();
 taskManager.addTask("Learn TypeScript");
 taskManager.completeTask(1);
 taskManager.displayTasks();
-taskManager.addTask("yamete kudasai");
+taskManager.addTask("This is a task");
 taskManager.completeTask(2);
 taskManager.displayTasks();
 
